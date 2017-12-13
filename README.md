@@ -9,7 +9,8 @@ __this is also bold__
 1. Item 1  
 2. Item 2  
 3. Item 3  
-  * Item 3a 
+  * Item 3a
 
 **I want to add emojis**
 +1: :sparkles:  :camel:  :octocat:  
+Trying to add [People.com](http://people.com/) because I'm basic
