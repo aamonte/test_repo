@@ -10,3 +10,6 @@ __this is also bold__
 2. Item 2  
 3. Item 3  
   * Item 3a 
+
+**I want to add emojis**
++1: :sparkles:  :camel:  :octocat:  
